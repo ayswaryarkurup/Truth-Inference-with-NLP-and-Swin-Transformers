@@ -1,2 +1,2 @@
 # Truth-Inference-with-NLP-and-Swin-Transformers
-This repository contains the  implementation details of  Truth Inference Scheme for Crowdsourcing using NLP and Swin Transformers
+This repository contains the  implementation details of a truth inference model that combines Natural Language Processing (NLP) with transfer learning using Swin transformers. Unlike traditional transformer architectures, the Swin transformer employs a shifted windowing technique that effectively captures both local and global contextual features in textual data. This approach helps to generate more accurate embedding representations, specifically fine-tuned for nuances of crowdsourced tasks.
